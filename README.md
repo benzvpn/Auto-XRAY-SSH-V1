@@ -53,5 +53,5 @@ MAKS 10 X REGIST IP VPS , WAJIB KONSISTEN
 apt update -y && apt upgrade -y
 ```
 ```
-wget [https://githubusercontent.com/gazzent/v1/main/goblok.sh](https://raw.githubusercontent.com/benzvpn/Auto-XRAY-SSH-V1/refs/heads/main/goblok.sh) && chmod +x goblok.sh && ./goblok.sh
+wget https://raw.githubusercontent.com/benzvpn/Auto-XRAY-SSH-V1/refs/heads/main/goblok.sh && chmod +x goblok.sh && ./goblok.sh
 ```
